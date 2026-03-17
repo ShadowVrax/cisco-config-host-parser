@@ -131,5 +131,9 @@ Full write-up with detailed parsing explanation and platform examples:
 
 ## License
 
-MIT — free to use, modify, and distribute.
+This project is licensed under the [Personal Attribution License](./LICENSE).
+
+© 2026 [Emmanuel Bracuso](https://github.com/ShadowVrax) — All rights reserved.  
+Free to use, modify, and distribute with attribution to the original author.
+
 
