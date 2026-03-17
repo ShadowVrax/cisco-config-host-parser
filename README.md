@@ -132,3 +132,4 @@ Full write-up with detailed parsing explanation and platform examples:
 ## License
 
 MIT — free to use, modify, and distribute.
+
